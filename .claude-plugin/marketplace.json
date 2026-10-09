@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-connector-center",
+  "owner": { "name": "narkov" },
+  "plugins": [{ "name": "connector-center", "source": "./" }]
+}

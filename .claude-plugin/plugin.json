@@ -1,0 +1,6 @@
+{
+  "name": "connector-center",
+  "version": "0.1.0",
+  "description": "Connector control center: how many tokens each MCP connector eats (schemas and replies), its version and what to disable, in the /connectors pane",
+  "types": "./types/index.d.ts"
+}
